@@ -82,10 +82,10 @@
 				624ECD58199E8A81000D3E03 /* AppDelegate.swift */,
 				624ECD5A199E8A81000D3E03 /* FirstViewController.swift */,
 				624ECD5C199E8A81000D3E03 /* SecondViewController.swift */,
+				624ECD77199E8DD6000D3E03 /* ThirdViewController.swift */,
 				624ECD5E199E8A82000D3E03 /* Main.storyboard */,
 				624ECD61199E8A82000D3E03 /* Images.xcassets */,
 				624ECD56199E8A81000D3E03 /* Supporting Files */,
-				624ECD77199E8DD6000D3E03 /* ThirdViewController.swift */,
 			);
 			path = SwiftUIDemo;
 			sourceTree = "<group>";
